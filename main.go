@@ -1,1 +1,3 @@
+package name
+
 func go() {}
